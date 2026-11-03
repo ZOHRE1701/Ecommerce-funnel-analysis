@@ -4,7 +4,7 @@
 This project analyzes the e-commerce customer journey to understand user behavior and identify where potential customers drop off during the purchasing process.
 
 ## Tools & Technologies
-- SQL
+- BigQuery
 - Looker Studio
 
 ## Analysis Objectives
